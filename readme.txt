@@ -4,7 +4,7 @@ Donate link: https://www.saskialund.de/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox, jetpack, tiled galleries, tiled gallery, mosaic
 Requires at least: 3.0
 Tested up to: 4.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,9 @@ Adds Divi's native lightbox effect to Jetpack Tiled Galleries.
 == Description ==
 
 This plugin adds the Divi Lightbox effect to Jetpack Tiled Galleries. This is a very lightweight plugin, which has almost no impact on pageload.
+Requirements:
++ Activated Divi theme or Divi child theme (Divi is a Premium Theme created by ElegantThemes.) 
++ Activated Jetpack plugin with following modules enabled: Photon and Tiled Galleries
 
 **Do you want to contribute or help improving this plugin?**
 
