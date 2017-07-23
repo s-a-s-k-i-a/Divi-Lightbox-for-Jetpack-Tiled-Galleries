@@ -19,7 +19,6 @@ Domain Path: /languages/
 // Prevent direct access to the plugin
 if ( !defined( 'ABSPATH' ) ) exit( 'Nice try! :)' );
 
-
 add_action( 'wp_footer', 'divi_jetpack_lightbox_js' );
 if( !function_exists( 'divi_jetpack_lightbox_js' ) ) { 
 		function divi_jetpack_lightbox_js() { 
@@ -29,11 +28,9 @@ if( !function_exists( 'divi_jetpack_lightbox_js' ) ) {
 				var numBilder = $('.tiled-gallery .gallery-row .gallery-group .tiled-gallery-item').length;
 				$('.tiled-gallery').addClass("et_post_gallery et_pb_gallery_items").attr("data-per_page", numBilder).wrap('<div class="et_pb_gallery"></div>');
 				$('.gallery-group.images-1').addClass("et_pb_gallery_item");
-
 					if ( $('.tiled-gallery').length ) {
 						// swipe support in magnific popup only if gallery exists
 						var magnificPopup = $.magnificPopup.instance;
-
 						$( 'body' ).on( 'swiperight', '.mfp-container', function() {
 							magnificPopup.prev();
 						} );
@@ -62,14 +59,11 @@ if( !function_exists( 'divi_jetpack_lightbox_js' ) ) {
 									}
 								}
 							 });
-					}
-						
-					
+					}	
 			}
 			});})(jQuery)
 		</script>
 		<?php
-		
 		endif;
 	}	
 }
