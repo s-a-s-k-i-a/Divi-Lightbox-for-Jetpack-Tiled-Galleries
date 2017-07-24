@@ -9,6 +9,7 @@ Requirements:
 **Do you want to contribute or help improving this plugin?**
 
 You can find it on GitHub: [https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/](https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/)
+Please find a live demo of the plugin here: [http://lightbox-test.saskialund.de/](http://lightbox-test.saskialund.de/)
 
 **Do you want to know more about me?**
 
