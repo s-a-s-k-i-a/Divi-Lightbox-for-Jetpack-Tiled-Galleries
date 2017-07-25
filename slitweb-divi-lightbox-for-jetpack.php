@@ -1,5 +1,4 @@
 <?php
-
 /*
 Plugin Name: Divi Lightbox for Jetpack Tiled galleries
 Plugin URI: https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/
