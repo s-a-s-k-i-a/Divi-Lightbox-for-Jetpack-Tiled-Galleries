@@ -1,5 +1,5 @@
 === Divi Lightbox for Jetpack Tiled Galleries ===
-Contributors: jyria
+Contributors: Jyria
 Donate link: https://www.saskialund.de/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox, jetpack, tiled galleries, tiled gallery, mosaic
 Requires at least: 3.0
