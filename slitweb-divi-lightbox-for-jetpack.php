@@ -4,7 +4,7 @@ Plugin Name: Divi Lightbox for Jetpack Tiled galleries
 Plugin URI: https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/
 Description: Adds Divi's native lightbox effect to Jetpack Tiled galleries and all images placed via "Add media". Divi is a Premium Theme created by ElegantThemes. This plugin requires an activated Divi theme or Divi child theme.
 
-Version: 1.0.4
+Version: 1.0.5
 
 Author: Saskia Lund
 Author URI: https://www.saskialund.de/
