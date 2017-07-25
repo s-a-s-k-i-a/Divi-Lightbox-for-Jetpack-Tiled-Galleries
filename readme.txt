@@ -12,7 +12,7 @@ Adds Divi's native lightbox effect to Jetpack Tiled Galleries.
 
 == Description ==
 
-This plugin adds the Divi Lightbox effect to Jetpack Tiled Galleries. This is a very lightweight plugin, which has almost no impact on pageload.
+This plugin adds Divi's integrated Lightbox effect to Jetpack Tiled Galleries. This is a very lightweight plugin, which has almost no impact on pageload.
 Requirements:
 + Activated Divi theme or Divi child theme (Divi is a Premium Theme created by ElegantThemes.) 
 + Activated Jetpack plugin with following modules enabled: Photon (to be found in Dashboard > Jetpack > Settings) and Tiled Galleries (to be found in Dashboard > Settings > Media)
