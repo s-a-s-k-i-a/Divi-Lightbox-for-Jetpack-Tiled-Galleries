@@ -4,15 +4,15 @@ Donate link: https://www.saskialund.de/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox, jetpack, tiled galleries, tiled gallery, mosaic
 Requires at least: 3.0
 Tested up to: 4.8
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds Divi's native lightbox effect to Jetpack Tiled Galleries.
+Adds Divi's native lightbox effect to Jetpack Tiled Galleries as well as any image that wasn't placed by Divi Image module, but via "Add media" and is linked to media file.
 
 == Description ==
 
-This plugin adds Divi's integrated Lightbox effect to Jetpack Tiled Galleries. This is a very lightweight plugin, which has almost no impact on pageload.
+This plugin adds Divi's integrated Lightbox effect to Jetpack Tiled Galleries as well as any image that wasn't placed by Divi Image module, but via "Add media" and is linked to media file.. This is a very lightweight plugin, which has almost no impact on pageload.
 Requirements:
 + Activated Divi theme or Divi child theme (Divi is a Premium Theme created by ElegantThemes.) 
 + Activated Jetpack plugin with following modules enabled: Photon (to be found in Dashboard > Jetpack > Settings) and Tiled Galleries (to be found in Dashboard > Settings > Media)
@@ -42,11 +42,24 @@ Visit my webpage: [www.saskialund.de](https://www.saskialund.de/)
 If you have any questions, please use the Issue section of this plugin's Github development repository, which can be found here: [https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/issues](https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/issues)
 
 === Known issues ===
+
 1. Incompatibility with Surbma Divi Lightbox plugin.
 
 == Screenshots ==
 
+See live Demo here: [http://lightbox-test.saskialund.de/](http://lightbox-test.saskialund.de/)
+
+
 == Changelog ==
+
+= 1.0.4 =
+
+Release Date: July 25th, 2017
+
+- added lightbox functionality to any image linked to media files, which was placed using "Add media" instead of Divi Image module
+- readme.txt updated
+- readme.md updated
+- Versioning
 
 = 1.0.3 =
 
