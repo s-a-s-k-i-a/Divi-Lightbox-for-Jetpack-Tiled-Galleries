@@ -4,7 +4,7 @@ Donate link: https://www.saskialund.de/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox, jetpack, tiled galleries, tiled gallery, mosaic
 Requires at least: 3.0
 Tested up to: 4.8
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,6 +47,15 @@ If you have any questions, please use the Issue section of this plugin's Github 
 == Screenshots ==
 
 == Changelog ==
+
+= 1.0.3 =
+
+Release Date: July 25th, 2017
+
+- renaming of main plugin file to match WordPress.org regulation
+- readme.txt updated
+- readme.md updated
+- Versioning
 
 = 1.0.2 =
 
