@@ -4,7 +4,7 @@ Plugin Name: Divi Lightbox for Jetpack Tiled galleries
 Plugin URI: https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/
 Description: Adds Divi's native lightbox effect to Jetpack Tiled galleries and all images placed via "Add media". Divi is a Premium Theme created by ElegantThemes. This plugin requires an activated Divi theme or Divi child theme.
 
-Version: 1.0.5
+Version: 1.0.6
 
 Author: Saskia Lund
 Author URI: https://www.saskialund.de/
@@ -25,7 +25,7 @@ if( !function_exists( 'divi_jetpack_lightbox_js' ) ) {
 			<script type="text/javascript">(function($) {
 			    $(document).ready(function() {
 			        $(".entry-content a").children("img").parent("a").filter(function(){
-			        	return $(this).parent().is(":not(.tiled-gallery-item)");}).addClass(function() {
+			        	return $(this).parent().is(":not(.et_pb_gallery_image)");}).addClass(function() {
 			            return $(this).attr("href").split("?", 1)[0].match(/\.(jpeg|jpg|gif|png)$/) != null ? "et_pb_lightbox_image" : "";
 			        });
 			    });
@@ -35,7 +35,7 @@ if( !function_exists( 'divi_jetpack_lightbox_js' ) ) {
 			elseif ( class_exists( "ET_Builder_Module" ) && class_exists( "Jetpack" ) ) : ?>
 			<script type="text/javascript">(function($){$(document).ready(function(){
 			$(".entry-content a").children("img").parent("a").filter(function(){
-	        	return $(this).parent().is(":not(.tiled-gallery-item)");}).addClass(function() {
+	        	return $(this).parent().is(":not(.tiled-gallery-item,.et_pb_gallery_image)");}).addClass(function() {
 	            return $(this).attr("href").split("?", 1)[0].match(/\.(jpeg|jpg|gif|png)$/) != null ? "et_pb_lightbox_image" : "";
 	        });
 			
