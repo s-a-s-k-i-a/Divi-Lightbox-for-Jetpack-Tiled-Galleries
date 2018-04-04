@@ -3,8 +3,8 @@ Contributors: Jyria
 Donate link: https://www.saskialund.de/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox, jetpack, tiled galleries, tiled gallery, mosaic
 Requires at least: 3.0
-Tested up to: 4.8
-Stable tag: 1.0.6
+Tested up to: 4.9.5
+Stable tag: 1.0.7
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,6 +51,14 @@ See live Demo here: [http://lightbox-test.saskialund.de/](http://lightbox-test.s
 
 
 == Changelog ==
+
+= 1.0.7 =
+
+Release Date: April 4th, 2018
+
+- Compatibility with latest Jetpack 6.0 and WordPress 4.9.5
+- readme.txt updated
+- Versioning
 
 = 1.0.6 =
 
