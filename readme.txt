@@ -3,8 +3,8 @@ Contributors: Jyria
 Donate link: https://www.saskialund.de/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox, jetpack, tiled galleries, tiled gallery, mosaic
 Requires at least: 3.0
-Tested up to: 4.9.5
-Stable tag: 1.0.7
+Tested up to: 4.9.6
+Stable tag: 1.0.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,7 +20,7 @@ Requirements:
 **Do you want to contribute or help improving this plugin?**
 
 You can find it on GitHub: [https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/](https://github.com/s-a-s-k-i-a/Divi-Lightbox-for-Jetpack-Tiled-Galleries/)
-Please find a live demo of the plugin here: [http://lightbox-test.saskialund.de/](http://lightbox-test.saskialund.de/)
+Please find a live demo of the plugin here: [https://lightbox-test.saskialund.de/](https://lightbox-test.saskialund.de/)
 
 **Do you want to know more about me?**
 
@@ -47,10 +47,18 @@ If you have any questions, please use the Issue section of this plugin's Github 
 
 == Screenshots ==
 
-See live Demo here: [http://lightbox-test.saskialund.de/](http://lightbox-test.saskialund.de/)
+See live Demo here: [https://lightbox-test.saskialund.de/](https://lightbox-test.saskialund.de/)
 
 
 == Changelog ==
+
+= 1.0.8 =
+
+Release Date: June 5th, 2018
+
+- Compatibility with latest Jetpack 6.1.1 and WordPress 4.9.6
+- readme.txt updated
+- Versioning
 
 = 1.0.7 =
 
